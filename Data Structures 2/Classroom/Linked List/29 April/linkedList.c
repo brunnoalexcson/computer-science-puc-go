@@ -8,7 +8,7 @@ This code implements the basics of a linked list.
 typedef struct No{
     int dado;
     struct No* proximo;
-    // No* proximo is equal a No *proximo
+    // No* proximo is the same as No *proximo
 } No;
 
 int main(){
